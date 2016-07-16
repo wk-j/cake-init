@@ -11,8 +11,14 @@ Command line utility to initialize cake script.
 
 ## Development
 
-> npm link
+- Link package
 
-> npm unlink
+    > npm link
 
-> npm publish
+- Unlink
+
+    > npm unlink
+
+- Publish to npm registry
+
+    > npm publish
