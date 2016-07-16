@@ -1,11 +1,14 @@
 {
-    "name": "cake-init",
-    "version": "0.1.0",
-    "description": "initialize cake dependencies",
-    "author": "wk",
-    "license": "MIT",
-    "preferGlobal": true,
-    "bin": {
-        "cake-init": "core/index.js"
-    }
+  "name": "cake-init",
+  "version": "0.1.1",
+  "description": "initialize cake dependencies",
+  "author": "wk",
+  "license": "MIT",
+  "preferGlobal": true,
+  "bin": {
+    "cake-init": "core/index.js"
+  },
+  "dependencies": {
+    "fs-extra": "^0.30.0"
+  }
 }
