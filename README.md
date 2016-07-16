@@ -8,3 +8,9 @@ Command line utility to initialize cake script.
 ## Install
 
 > npm install cake-init -g
+
+## Development
+
+> npm link
+> npm unlink
+> npm publish
