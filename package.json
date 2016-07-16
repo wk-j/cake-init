@@ -1,0 +1,11 @@
+{
+    "name": "cake-init",
+    "version": "0.1.0",
+    "description": "initialize cake dependencies",
+    "author": "wk",
+    "license": "MIT",
+    "preferGlobal": true,
+    "bin": {
+        "cake-init": "core/index.js"
+    }
+}
